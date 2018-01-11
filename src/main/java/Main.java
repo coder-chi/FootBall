@@ -25,7 +25,7 @@ public class Main {
         Player xuhaoran = new Player("徐浩然",teamB,teamA);
         Player bieke = new Player("别克",teamB,teamA);
         Player zhangshuo = new Player("张朔",teamB,teamA);
-        
+
         playersA.add(zhangzhiyuan);
         playersA.add(zhanglong);
         playersA.add(zhubenhao);
