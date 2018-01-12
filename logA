@@ -1,0 +1,948 @@
+17:25:44.749 [pool-2-thread-2] INFO  people.Player - A 张龙传球给了 祝奔豪
+17:25:44.749 [pool-2-thread-1] INFO  people.Player - A 张致远传球给了 张龙
+17:25:44.749 [pool-2-thread-3] INFO  people.Player - A 祝奔豪传球给了 张龙
+17:25:45.256 [pool-2-thread-2] INFO  people.Player - A 张龙一脚爆射
+17:25:45.261 [pool-2-thread-1] INFO  people.Player - A 张致远断掉了刘欣的球
+17:25:45.745 [pool-2-thread-6] INFO  people.Player - B 刘欣断掉了张致远的球
+17:25:45.763 [pool-2-thread-1] INFO  people.Player - A 张致远断掉了刘欣的球
+17:25:46.267 [pool-2-thread-1] INFO  people.Player - A 张致远传球给了 刘子旋
+17:25:46.749 [pool-2-thread-9] INFO  people.Player - B 别克断掉了刘子旋的球
+17:25:47.253 [pool-2-thread-9] INFO  people.Player - B 别克一脚爆射
+17:25:47.273 [pool-2-thread-1] INFO  people.Player - A 张致远传球给了 祝奔豪
+17:25:47.757 [pool-2-thread-7] INFO  people.Player - B 龚政断掉了祝奔豪的球
+17:25:48.261 [pool-2-thread-7] INFO  people.Player - B 龚政传球给了 徐浩然
+17:25:48.280 [pool-2-thread-3] INFO  people.Player - A 祝奔豪断掉了徐浩然的球
+17:25:48.783 [pool-2-thread-3] INFO  people.Player - A 祝奔豪传球给了 张龙
+17:25:49.274 [pool-2-thread-2] INFO  people.Player - A 张龙传球给了 祝奔豪
+17:25:49.288 [pool-2-thread-3] INFO  people.Player - A 祝奔豪传球给了 刘子旋
+17:25:49.772 [pool-2-thread-4] INFO  people.Player - A 刘子旋传球给了 祝奔豪
+17:25:49.792 [pool-2-thread-3] INFO  people.Player - A 祝奔豪传球给了 刘子旋
+17:25:50.277 [pool-2-thread-4] INFO  people.Player - A 刘子旋一脚爆射
+17:25:50.778 [pool-2-thread-7] INFO  people.Player - B 龚政传球给了 别克
+17:25:50.778 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 龚政
+17:25:51.279 [pool-2-thread-9] INFO  people.Player - B 别克一脚爆射
+17:25:51.294 [pool-2-thread-1] INFO  people.Player - A 张致远传球给了 张龙
+17:25:51.781 [pool-2-thread-8] INFO  people.Player - B 徐浩然断掉了张龙的球
+17:25:52.285 [pool-2-thread-8] INFO  people.Player - B 徐浩然传球给了 别克
+17:25:52.789 [pool-2-thread-9] INFO  people.Player - B 别克传球给了 徐浩然
+17:25:52.789 [pool-2-thread-8] INFO  people.Player - B 徐浩然传球给了 刘欣
+17:25:52.793 [pool-2-thread-4] INFO  people.Player - A 刘子旋断掉了龚政的球
+17:25:52.793 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 龚政
+17:25:53.296 [pool-2-thread-4] INFO  people.Player - A 刘子旋一脚爆射
+17:25:53.800 [pool-2-thread-2] INFO  people.Player - A 张龙断掉了刘欣的球
+17:25:54.304 [pool-2-thread-2] INFO  people.Player - A 张龙传球给了 刘子旋
+17:25:54.805 [pool-2-thread-4] INFO  people.Player - A 刘子旋一脚爆射
+17:25:55.308 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 徐浩然
+17:25:55.311 [pool-2-thread-2] INFO  people.Player - A 张龙断掉了徐浩然的球
+17:25:55.814 [pool-2-thread-2] INFO  people.Player - A 张龙一脚爆射
+17:25:56.314 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 别克
+17:25:56.811 [pool-2-thread-9] INFO  people.Player - B 别克一脚爆射
+17:25:56.811 [pool-2-thread-5] INFO  people.Player - A 高政然断掉了别克的球
+17:25:56.829 [pool-2-thread-1] INFO  people.Player - A 张致远一脚爆射
+17:25:57.315 [pool-2-thread-5] INFO  people.Player - A 高政然传球给了 祝奔豪
+17:25:57.321 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 龚政
+17:25:57.333 [pool-2-thread-3] INFO  people.Player - A 祝奔豪传球给了 刘子旋
+17:25:57.819 [pool-2-thread-5] INFO  people.Player - A 高政然断掉了龚政的球
+17:25:57.819 [pool-2-thread-10] INFO  people.Player - B 张朔断掉了刘子旋的球
+17:25:58.323 [pool-2-thread-5] INFO  people.Player - A 高政然传球给了 张龙
+17:25:58.323 [pool-2-thread-10] INFO  people.Player - B 张朔传球给了 别克
+17:25:58.334 [pool-2-thread-2] INFO  people.Player - A 张龙传球给了 祝奔豪
+17:25:58.346 [pool-2-thread-3] INFO  people.Player - A 祝奔豪传球给了 张龙
+17:25:58.825 [pool-2-thread-9] INFO  people.Player - B 别克传球给了 张朔
+17:25:58.829 [pool-2-thread-10] INFO  people.Player - B 张朔传球给了 刘欣
+17:25:58.835 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 龚政
+17:25:58.838 [pool-2-thread-2] INFO  people.Player - A 张龙传球给了 祝奔豪
+17:25:58.847 [pool-2-thread-3] INFO  people.Player - A 祝奔豪传球给了 刘子旋
+17:25:59.335 [pool-2-thread-7] INFO  people.Player - B 龚政传球给了 别克
+17:25:59.335 [pool-2-thread-4] INFO  people.Player - A 刘子旋传球给了 张致远
+17:25:59.340 [pool-2-thread-1] INFO  people.Player - A 张致远一脚爆射
+17:25:59.832 [pool-2-thread-9] INFO  people.Player - B 别克一脚爆射
+17:25:59.837 [pool-2-thread-10] INFO  people.Player - B 张朔断掉了张致远的球
+17:25:59.839 [pool-2-thread-4] INFO  people.Player - A 刘子旋断掉了刘欣的球
+17:25:59.842 [pool-2-thread-1] INFO  people.Player - A 张致远断掉了张朔的球
+17:25:59.843 [pool-2-thread-6] INFO  people.Player - B 刘欣断掉了张致远的球
+17:26:00.340 [pool-2-thread-4] INFO  people.Player - A 刘子旋传球给了 张致远
+17:26:00.348 [pool-2-thread-1] INFO  people.Player - A 张致远传球给了 张龙
+17:26:00.348 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 别克
+17:26:00.838 [pool-2-thread-9] INFO  people.Player - B 别克一脚爆射
+17:26:00.852 [pool-2-thread-1] INFO  people.Player - A 张致远一脚爆射
+17:26:00.852 [pool-2-thread-2] INFO  people.Player - A 张龙一脚爆射
+17:26:01.356 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 龚政
+17:26:01.364 [pool-2-thread-3] INFO  people.Player - A 祝奔豪断掉了龚政的球
+17:26:01.869 [pool-2-thread-3] INFO  people.Player - A 祝奔豪传球给了 张致远
+17:26:02.345 [pool-2-thread-9] INFO  people.Player - B 别克断掉了张致远的球
+17:26:02.345 [pool-2-thread-8] INFO  people.Player - B 徐浩然断掉了张致远的球
+17:26:02.849 [pool-2-thread-9] INFO  people.Player - B 别克传球给了 刘欣
+17:26:02.849 [pool-2-thread-8] INFO  people.Player - B 徐浩然传球给了 别克
+17:26:02.866 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 徐浩然
+17:26:03.353 [pool-2-thread-9] INFO  people.Player - B 别克传球给了 刘欣
+17:26:03.353 [pool-2-thread-8] INFO  people.Player - B 徐浩然传球给了 别克
+17:26:03.370 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 徐浩然
+17:26:03.381 [pool-2-thread-3] INFO  people.Player - A 祝奔豪断掉了别克的球
+17:26:03.857 [pool-2-thread-8] INFO  people.Player - B 徐浩然传球给了 刘欣
+17:26:03.873 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 别克
+17:26:03.885 [pool-2-thread-3] INFO  people.Player - A 祝奔豪传球给了 张龙
+17:26:04.360 [pool-2-thread-9] INFO  people.Player - B 别克传球给了 龚政
+17:26:04.373 [pool-2-thread-7] INFO  people.Player - B 龚政传球给了 别克
+17:26:04.375 [pool-2-thread-2] INFO  people.Player - A 张龙传球给了 刘子旋
+17:26:04.865 [pool-2-thread-9] INFO  people.Player - B 别克传球给了 张朔
+17:26:04.877 [pool-2-thread-10] INFO  people.Player - B 张朔传球给了 龚政
+17:26:04.877 [pool-2-thread-4] INFO  people.Player - A 刘子旋传球给了 祝奔豪
+17:26:04.878 [pool-2-thread-7] INFO  people.Player - B 龚政传球给了 别克
+17:26:04.889 [pool-2-thread-3] INFO  people.Player - A 祝奔豪一脚爆射
+17:26:05.373 [pool-2-thread-9] INFO  people.Player - B 别克传球给了 龚政
+17:26:05.378 [pool-2-thread-4] INFO  people.Player - A 刘子旋断掉了刘欣的球
+17:26:05.378 [pool-2-thread-7] INFO  people.Player - B 龚政传球给了 徐浩然
+17:26:05.871 [pool-2-thread-8] INFO  people.Player - B 徐浩然传球给了 龚政
+17:26:05.873 [pool-2-thread-9] INFO  people.Player - B 别克断掉了刘子旋的球
+17:26:05.880 [pool-2-thread-7] INFO  people.Player - B 龚政传球给了 徐浩然
+17:26:06.376 [pool-2-thread-8] INFO  people.Player - B 徐浩然一脚爆射
+17:26:06.378 [pool-2-thread-9] INFO  people.Player - B 别克传球给了 龚政
+17:26:06.382 [pool-2-thread-4] INFO  people.Player - A 刘子旋断掉了龚政的球
+17:26:06.382 [pool-2-thread-1] INFO  people.Player - A 张致远传球给了 张龙
+17:26:06.385 [pool-2-thread-7] INFO  people.Player - B 龚政断掉了刘子旋的球
+17:26:06.886 [pool-2-thread-10] INFO  people.Player - B 张朔断掉了张龙的球
+17:26:06.889 [pool-2-thread-7] INFO  people.Player - B 龚政传球给了 刘欣
+17:26:07.390 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 徐浩然
+17:26:07.392 [pool-2-thread-10] INFO  people.Player - B 张朔传球给了 龚政
+17:26:07.393 [pool-2-thread-7] INFO  people.Player - B 龚政传球给了 徐浩然
+17:26:07.889 [pool-2-thread-8] INFO  people.Player - B 徐浩然传球给了 刘欣
+17:26:07.895 [pool-2-thread-1] INFO  people.Player - A 张致远断掉了刘欣的球
+17:26:08.399 [pool-2-thread-1] INFO  people.Player - A 张致远传球给了 祝奔豪
+17:26:08.414 [pool-2-thread-3] INFO  people.Player - A 祝奔豪传球给了 刘子旋
+17:26:08.903 [pool-2-thread-4] INFO  people.Player - A 刘子旋传球给了 祝奔豪
+17:26:08.918 [pool-2-thread-3] INFO  people.Player - A 祝奔豪传球给了 刘子旋
+17:26:09.407 [pool-2-thread-6] INFO  people.Player - B 刘欣断掉了刘子旋的球
+17:26:09.911 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 别克
+17:26:09.911 [pool-2-thread-4] INFO  people.Player - A 刘子旋断掉了别克的球
+17:26:10.414 [pool-2-thread-4] INFO  people.Player - A 刘子旋传球给了 张致远
+17:26:10.917 [pool-2-thread-1] INFO  people.Player - A 张致远一脚爆射
+17:26:11.421 [pool-2-thread-6] INFO  people.Player - B 刘欣一脚爆射
+17:26:11.925 [pool-2-thread-1] INFO  people.Player - A 张致远一脚爆射
+17:26:11.925 [pool-2-thread-6] INFO  people.Player - B 刘欣断掉了张致远的球
+17:26:12.429 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 徐浩然
+17:26:12.924 [pool-2-thread-8] INFO  people.Player - B 徐浩然传球给了 别克
+17:26:12.929 [pool-2-thread-2] INFO  people.Player - A 张龙断掉了别克的球
+17:26:13.431 [pool-2-thread-2] INFO  people.Player - A 张龙传球给了 刘子旋
+17:26:13.932 [pool-2-thread-4] INFO  people.Player - A 刘子旋传球给了 张龙
+17:26:13.937 [pool-2-thread-2] INFO  people.Player - A 张龙传球给了 祝奔豪
+17:26:13.955 [pool-2-thread-3] INFO  people.Player - A 祝奔豪传球给了 刘子旋
+17:26:14.434 [pool-2-thread-4] INFO  people.Player - A 刘子旋传球给了 祝奔豪
+17:26:14.460 [pool-2-thread-3] INFO  people.Player - A 祝奔豪传球给了 张龙
+17:26:14.944 [pool-2-thread-2] INFO  people.Player - A 张龙传球给了 张致远
+17:26:14.948 [pool-2-thread-1] INFO  people.Player - A 张致远传球给了 张龙
+17:26:15.449 [pool-2-thread-2] INFO  people.Player - A 张龙传球给了 刘子旋
+17:26:15.946 [pool-2-thread-4] INFO  people.Player - A 刘子旋传球给了 高政然
+17:26:16.447 [pool-2-thread-5] INFO  people.Player - A 高政然传球给了 张龙
+17:26:16.455 [pool-2-thread-2] INFO  people.Player - A 张龙传球给了 张致远
+17:26:16.959 [pool-2-thread-1] INFO  people.Player - A 张致远传球给了 祝奔豪
+17:26:16.980 [pool-2-thread-3] INFO  people.Player - A 祝奔豪传球给了 刘子旋
+17:26:17.457 [pool-2-thread-4] INFO  people.Player - A 刘子旋传球给了 张龙
+17:26:17.462 [pool-2-thread-2] INFO  people.Player - A 张龙传球给了 祝奔豪
+17:26:17.484 [pool-2-thread-3] INFO  people.Player - A 祝奔豪传球给了 刘子旋
+17:26:17.961 [pool-2-thread-4] INFO  people.Player - A 刘子旋传球给了 高政然
+17:26:18.463 [pool-2-thread-10] INFO  people.Player - B 张朔断掉了高政然的球
+17:26:18.969 [pool-2-thread-10] INFO  people.Player - B 张朔传球给了 刘欣
+17:26:19.469 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 龚政
+17:26:19.973 [pool-2-thread-7] INFO  people.Player - B 龚政传球给了 徐浩然
+17:26:19.973 [pool-2-thread-4] INFO  people.Player - A 刘子旋断掉了别克的球
+17:26:19.973 [pool-2-thread-8] INFO  people.Player - B 徐浩然传球给了 别克
+17:26:19.973 [pool-2-thread-9] INFO  people.Player - B 别克一脚爆射
+17:26:20.478 [pool-2-thread-4] INFO  people.Player - A 刘子旋传球给了 高政然
+17:26:20.478 [pool-2-thread-1] INFO  people.Player - A 张致远传球给了 祝奔豪
+17:26:20.503 [pool-2-thread-3] INFO  people.Player - A 祝奔豪一脚爆射
+17:26:20.979 [pool-2-thread-8] INFO  people.Player - B 徐浩然传球给了 龚政
+17:26:20.979 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 徐浩然
+17:26:20.979 [pool-2-thread-5] INFO  people.Player - A 高政然一脚爆射
+17:26:20.987 [pool-2-thread-2] INFO  people.Player - A 张龙断掉了龚政的球
+17:26:21.480 [pool-2-thread-5] INFO  people.Player - A 高政然断掉了刘欣的球
+17:26:21.491 [pool-2-thread-2] INFO  people.Player - A 张龙一脚爆射
+17:26:21.985 [pool-2-thread-9] INFO  people.Player - B 别克断掉了高政然的球
+17:26:21.985 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 龚政
+17:26:22.489 [pool-2-thread-1] INFO  people.Player - A 张致远断掉了龚政的球
+17:26:22.489 [pool-2-thread-9] INFO  people.Player - B 别克传球给了 徐浩然
+17:26:22.993 [pool-2-thread-8] INFO  people.Player - B 徐浩然传球给了 龚政
+17:26:22.993 [pool-2-thread-1] INFO  people.Player - A 张致远一脚爆射
+17:26:22.993 [pool-2-thread-4] INFO  people.Player - A 刘子旋断掉了徐浩然的球
+17:26:23.025 [pool-2-thread-3] INFO  people.Player - A 祝奔豪断掉了刘欣的球
+17:26:23.497 [pool-2-thread-7] INFO  people.Player - B 龚政传球给了 徐浩然
+17:26:23.497 [pool-2-thread-8] INFO  people.Player - B 徐浩然传球给了 刘欣
+17:26:23.497 [pool-2-thread-4] INFO  people.Player - A 刘子旋传球给了 高政然
+17:26:23.527 [pool-2-thread-3] INFO  people.Player - A 祝奔豪传球给了 张龙
+17:26:24.002 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 徐浩然
+17:26:24.002 [pool-2-thread-8] INFO  people.Player - B 徐浩然传球给了 别克
+17:26:24.002 [pool-2-thread-5] INFO  people.Player - A 高政然传球给了 张龙
+17:26:24.005 [pool-2-thread-2] INFO  people.Player - A 张龙传球给了 祝奔豪
+17:26:24.029 [pool-2-thread-3] INFO  people.Player - A 祝奔豪传球给了 张致远
+17:26:24.506 [pool-2-thread-9] INFO  people.Player - B 别克传球给了 徐浩然
+17:26:24.506 [pool-2-thread-1] INFO  people.Player - A 张致远一脚爆射
+17:26:24.506 [pool-2-thread-8] INFO  people.Player - B 徐浩然传球给了 刘欣
+17:26:25.006 [pool-2-thread-6] INFO  people.Player - B 刘欣一脚爆射
+17:26:25.511 [pool-2-thread-1] INFO  people.Player - A 张致远传球给了 刘子旋
+17:26:26.015 [pool-2-thread-4] INFO  people.Player - A 刘子旋一脚爆射
+17:26:26.015 [pool-2-thread-10] INFO  people.Player - B 张朔断掉了刘子旋的球
+17:26:26.518 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 龚政
+17:26:26.520 [pool-2-thread-10] INFO  people.Player - B 张朔一脚爆射
+17:26:27.022 [pool-2-thread-7] INFO  people.Player - B 龚政传球给了 徐浩然
+17:26:27.022 [pool-2-thread-8] INFO  people.Player - B 徐浩然一脚爆射
+17:26:27.022 [pool-2-thread-1] INFO  people.Player - A 张致远传球给了 张龙
+17:26:27.026 [pool-2-thread-2] INFO  people.Player - A 张龙一脚爆射
+17:26:27.525 [pool-2-thread-1] INFO  people.Player - A 张致远传球给了 张龙
+17:26:27.525 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 别克
+17:26:27.530 [pool-2-thread-2] INFO  people.Player - A 张龙传球给了 祝奔豪
+17:26:27.555 [pool-2-thread-3] INFO  people.Player - A 祝奔豪传球给了 刘子旋
+17:26:28.029 [pool-2-thread-9] INFO  people.Player - B 别克传球给了 张朔
+17:26:28.029 [pool-2-thread-4] INFO  people.Player - A 刘子旋传球给了 张致远
+17:26:28.029 [pool-2-thread-10] INFO  people.Player - B 张朔一脚爆射
+17:26:28.530 [pool-2-thread-1] INFO  people.Player - A 张致远传球给了 张龙
+17:26:28.540 [pool-2-thread-2] INFO  people.Player - A 张龙一脚爆射
+17:26:29.034 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 别克
+17:26:29.034 [pool-2-thread-9] INFO  people.Player - B 别克一脚爆射
+17:26:29.537 [pool-2-thread-10] INFO  people.Player - B 张朔断掉了张致远的球
+17:26:30.040 [pool-2-thread-6] INFO  people.Player - B 刘欣断掉了高政然的球
+17:26:30.040 [pool-2-thread-5] INFO  people.Player - A 高政然断掉了张朔的球
+17:26:30.543 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 别克
+17:26:30.555 [pool-2-thread-2] INFO  people.Player - A 张龙断掉了别克的球
+17:26:31.059 [pool-2-thread-2] INFO  people.Player - A 张龙传球给了 刘子旋
+17:26:31.550 [pool-2-thread-4] INFO  people.Player - A 刘子旋一脚爆射
+17:26:32.051 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 别克
+17:26:32.552 [pool-2-thread-9] INFO  people.Player - B 别克传球给了 徐浩然
+17:26:33.053 [pool-2-thread-8] INFO  people.Player - B 徐浩然一脚爆射
+17:26:33.555 [pool-2-thread-7] INFO  people.Player - B 龚政断掉了张致远的球
+17:26:33.556 [pool-2-thread-1] INFO  people.Player - A 张致远一脚爆射
+17:26:34.059 [pool-2-thread-7] INFO  people.Player - B 龚政传球给了 别克
+17:26:34.059 [pool-2-thread-5] INFO  people.Player - A 高政然断掉了刘欣的球
+17:26:34.080 [pool-2-thread-2] INFO  people.Player - A 张龙断掉了别克的球
+17:40:56.970 [pool-2-thread-1] INFO  people.Player - A 张致远传球给了 祝奔豪
+17:40:56.970 [pool-2-thread-3] INFO  people.Player - A 祝奔豪传球给了 张致远
+17:40:56.970 [pool-2-thread-10] INFO  people.Player - B 张朔断掉了张致远的球
+17:40:57.476 [pool-2-thread-10] INFO  people.Player - B 张朔一脚爆射
+17:40:57.979 [pool-2-thread-1] INFO  people.Player - A 张致远传球给了 祝奔豪
+17:40:58.482 [pool-2-thread-3] INFO  people.Player - A 祝奔豪传球给了 刘子旋
+17:40:58.979 [pool-2-thread-4] INFO  people.Player - A 刘子旋传球给了 高政然
+17:40:58.979 [pool-2-thread-5] INFO  people.Player - A 高政然传球给了 刘子旋
+17:40:58.979 [pool-2-thread-6] INFO  people.Player - B 刘欣断掉了刘子旋的球
+17:40:59.482 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 龚政
+17:40:59.982 [pool-2-thread-5] INFO  people.Player - A 高政然断掉了别克的球
+17:40:59.983 [pool-2-thread-7] INFO  people.Player - B 龚政传球给了 别克
+17:41:00.484 [pool-2-thread-8] INFO  people.Player - B 徐浩然断掉了高政然的球
+17:41:00.990 [pool-2-thread-8] INFO  people.Player - B 徐浩然传球给了 刘欣
+17:41:01.490 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 龚政
+17:41:01.490 [pool-2-thread-7] INFO  people.Player - B 龚政传球给了 刘欣
+17:41:01.497 [pool-2-thread-3] INFO  people.Player - A 祝奔豪断掉了刘欣的球
+17:41:01.998 [pool-2-thread-3] INFO  people.Player - A 祝奔豪传球给了 张致远
+17:41:02.494 [pool-2-thread-9] INFO  people.Player - B 别克断掉了张致远的球
+17:41:02.999 [pool-2-thread-9] INFO  people.Player - B 别克一脚爆射
+17:41:03.004 [pool-2-thread-1] INFO  people.Player - A 张致远传球给了 张龙
+17:41:03.502 [pool-2-thread-2] INFO  people.Player - A 张龙传球给了 张致远
+17:41:03.504 [pool-2-thread-1] INFO  people.Player - A 张致远一脚爆射
+17:41:04.007 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 龚政
+17:41:04.509 [pool-2-thread-7] INFO  people.Player - B 龚政传球给了 刘欣
+17:41:04.509 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 龚政
+17:41:05.012 [pool-2-thread-7] INFO  people.Player - B 龚政传球给了 别克
+17:41:05.014 [pool-2-thread-9] INFO  people.Player - B 别克一脚爆射
+17:41:05.517 [pool-2-thread-7] INFO  people.Player - B 龚政断掉了张龙的球
+17:41:05.517 [pool-2-thread-1] INFO  people.Player - A 张致远传球给了 张龙
+17:41:06.021 [pool-2-thread-5] INFO  people.Player - A 高政然断掉了龚政的球
+17:41:06.526 [pool-2-thread-5] INFO  people.Player - A 高政然传球给了 张龙
+17:41:07.027 [pool-2-thread-2] INFO  people.Player - A 张龙传球给了 张致远
+17:41:07.027 [pool-2-thread-8] INFO  people.Player - B 徐浩然断掉了张致远的球
+17:41:07.028 [pool-2-thread-5] INFO  people.Player - A 高政然断掉了徐浩然的球
+17:41:07.532 [pool-2-thread-5] INFO  people.Player - A 高政然传球给了 张致远
+17:41:08.036 [pool-2-thread-6] INFO  people.Player - B 刘欣断掉了张致远的球
+17:41:08.538 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 龚政
+17:41:09.042 [pool-2-thread-7] INFO  people.Player - B 龚政传球给了 徐浩然
+17:41:09.547 [pool-2-thread-8] INFO  people.Player - B 徐浩然传球给了 别克
+17:41:10.050 [pool-2-thread-9] INFO  people.Player - B 别克一脚爆射
+17:41:10.550 [pool-2-thread-1] INFO  people.Player - A 张致远传球给了 刘子旋
+17:41:11.053 [pool-2-thread-4] INFO  people.Player - A 刘子旋传球给了 祝奔豪
+17:41:11.553 [pool-2-thread-6] INFO  people.Player - B 刘欣断掉了张致远的球
+17:41:11.553 [pool-2-thread-3] INFO  people.Player - A 祝奔豪传球给了 张致远
+17:41:12.054 [pool-2-thread-4] INFO  people.Player - A 刘子旋断掉了龚政的球
+17:41:12.054 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 龚政
+17:41:12.556 [pool-2-thread-4] INFO  people.Player - A 刘子旋传球给了 祝奔豪
+17:41:13.058 [pool-2-thread-10] INFO  people.Player - B 张朔断掉了祝奔豪的球
+17:41:13.562 [pool-2-thread-10] INFO  people.Player - B 张朔传球给了 别克
+17:41:13.574 [pool-2-thread-9] INFO  people.Player - B 别克传球给了 徐浩然
+17:41:14.066 [pool-2-thread-8] INFO  people.Player - B 徐浩然传球给了 龚政
+17:41:14.570 [pool-2-thread-7] INFO  people.Player - B 龚政传球给了 刘欣
+17:41:14.570 [pool-2-thread-6] INFO  people.Player - B 刘欣一脚爆射
+17:41:15.074 [pool-2-thread-1] INFO  people.Player - A 张致远一脚爆射
+17:41:15.074 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 龚政
+17:41:15.576 [pool-2-thread-7] INFO  people.Player - B 龚政传球给了 徐浩然
+17:41:16.078 [pool-2-thread-4] INFO  people.Player - A 刘子旋断掉了徐浩然的球
+17:41:16.583 [pool-2-thread-4] INFO  people.Player - A 刘子旋一脚爆射
+17:41:17.088 [pool-2-thread-4] INFO  people.Player - A 刘子旋断掉了刘欣的球
+17:41:17.592 [pool-2-thread-4] INFO  people.Player - A 刘子旋传球给了 祝奔豪
+17:41:18.088 [pool-2-thread-7] INFO  people.Player - B 龚政断掉了祝奔豪的球
+17:41:18.590 [pool-2-thread-7] INFO  people.Player - B 龚政传球给了 刘欣
+17:41:18.598 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 龚政
+17:41:19.094 [pool-2-thread-3] INFO  people.Player - A 祝奔豪断掉了龚政的球
+17:41:19.599 [pool-2-thread-3] INFO  people.Player - A 祝奔豪传球给了 刘子旋
+17:41:19.604 [pool-2-thread-4] INFO  people.Player - A 刘子旋一脚爆射
+17:41:20.106 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 龚政
+17:41:20.609 [pool-2-thread-7] INFO  people.Player - B 龚政传球给了 徐浩然
+17:41:21.103 [pool-2-thread-8] INFO  people.Player - B 徐浩然传球给了 刘欣
+17:41:21.113 [pool-2-thread-6] INFO  people.Player - B 刘欣一脚爆射
+17:41:21.606 [pool-2-thread-1] INFO  people.Player - A 张致远传球给了 张龙
+17:41:21.617 [pool-2-thread-7] INFO  people.Player - B 龚政断掉了张龙的球
+17:41:22.121 [pool-2-thread-7] INFO  people.Player - B 龚政一脚爆射
+17:41:22.613 [pool-2-thread-1] INFO  people.Player - A 张致远传球给了 张龙
+17:41:23.114 [pool-2-thread-2] INFO  people.Player - A 张龙传球给了 刘子旋
+17:41:23.131 [pool-2-thread-4] INFO  people.Player - A 刘子旋一脚爆射
+17:41:23.635 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 龚政
+17:41:23.635 [pool-2-thread-9] INFO  people.Player - B 别克断掉了高政然的球
+17:41:23.635 [pool-2-thread-5] INFO  people.Player - A 高政然断掉了龚政的球
+17:41:24.140 [pool-2-thread-9] INFO  people.Player - B 别克传球给了 刘欣
+17:41:24.649 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 龚政
+17:41:25.146 [pool-2-thread-7] INFO  people.Player - B 龚政传球给了 徐浩然
+17:41:25.631 [pool-2-thread-8] INFO  people.Player - B 徐浩然传球给了 别克
+17:41:25.650 [pool-2-thread-9] INFO  people.Player - B 别克传球给了 刘欣
+17:41:25.657 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 龚政
+17:41:26.152 [pool-2-thread-7] INFO  people.Player - B 龚政断掉了祝奔豪的球
+17:41:26.152 [pool-2-thread-3] INFO  people.Player - A 祝奔豪断掉了龚政的球
+17:41:26.653 [pool-2-thread-7] INFO  people.Player - B 龚政传球给了 徐浩然
+17:41:27.138 [pool-2-thread-1] INFO  people.Player - A 张致远断掉了徐浩然的球
+17:41:27.640 [pool-2-thread-10] INFO  people.Player - B 张朔断掉了张致远的球
+17:41:27.641 [pool-2-thread-2] INFO  people.Player - A 张龙断掉了张朔的球
+17:41:27.660 [pool-2-thread-7] INFO  people.Player - B 龚政断掉了张龙的球
+17:41:28.143 [pool-2-thread-1] INFO  people.Player - A 张致远断掉了龚政的球
+17:41:28.646 [pool-2-thread-1] INFO  people.Player - A 张致远传球给了 张龙
+17:41:29.149 [pool-2-thread-2] INFO  people.Player - A 张龙传球给了 刘子旋
+17:41:29.166 [pool-2-thread-4] INFO  people.Player - A 刘子旋一脚爆射
+17:41:29.169 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 别克
+17:41:29.670 [pool-2-thread-5] INFO  people.Player - A 高政然断掉了别克的球
+17:41:29.670 [pool-2-thread-7] INFO  people.Player - B 龚政断掉了高政然的球
+17:41:30.175 [pool-2-thread-7] INFO  people.Player - B 龚政一脚爆射
+17:41:30.659 [pool-2-thread-8] INFO  people.Player - B 徐浩然断掉了张致远的球
+17:41:31.163 [pool-2-thread-8] INFO  people.Player - B 徐浩然传球给了 刘欣
+17:41:31.186 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 别克
+17:41:31.687 [pool-2-thread-9] INFO  people.Player - B 别克传球给了 张朔
+17:41:32.167 [pool-2-thread-10] INFO  people.Player - B 张朔传球给了 徐浩然
+17:41:32.167 [pool-2-thread-2] INFO  people.Player - A 张龙断掉了徐浩然的球
+17:41:32.670 [pool-2-thread-2] INFO  people.Player - A 张龙传球给了 祝奔豪
+17:41:32.695 [pool-2-thread-3] INFO  people.Player - A 祝奔豪传球给了 刘子旋
+17:41:33.198 [pool-2-thread-4] INFO  people.Player - A 刘子旋传球给了 祝奔豪
+17:41:33.199 [pool-2-thread-9] INFO  people.Player - B 别克断掉了祝奔豪的球
+17:41:33.704 [pool-2-thread-9] INFO  people.Player - B 别克一脚爆射
+17:41:34.180 [pool-2-thread-1] INFO  people.Player - A 张致远传球给了 祝奔豪
+17:41:34.209 [pool-2-thread-3] INFO  people.Player - A 祝奔豪一脚爆射
+17:41:34.714 [pool-2-thread-4] INFO  people.Player - A 刘子旋断掉了刘欣的球
+17:41:35.216 [pool-2-thread-6] INFO  people.Player - B 刘欣断掉了刘子旋的球
+17:41:35.717 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 别克
+17:41:36.222 [pool-2-thread-9] INFO  people.Player - B 别克一脚爆射
+17:41:36.695 [pool-2-thread-1] INFO  people.Player - A 张致远传球给了 张龙
+17:41:37.199 [pool-2-thread-2] INFO  people.Player - A 张龙传球给了 祝奔豪
+17:41:37.226 [pool-2-thread-3] INFO  people.Player - A 祝奔豪一脚爆射
+17:41:37.729 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 徐浩然
+17:41:38.204 [pool-2-thread-8] INFO  people.Player - B 徐浩然一脚爆射
+17:41:38.228 [pool-2-thread-7] INFO  people.Player - B 龚政断掉了张致远的球
+17:41:38.730 [pool-2-thread-7] INFO  people.Player - B 龚政传球给了 刘欣
+17:41:38.735 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 别克
+17:41:39.237 [pool-2-thread-9] INFO  people.Player - B 别克传球给了 徐浩然
+17:41:39.711 [pool-2-thread-2] INFO  people.Player - A 张龙断掉了徐浩然的球
+17:41:40.214 [pool-2-thread-2] INFO  people.Player - A 张龙传球给了 张致远
+17:41:40.715 [pool-2-thread-2] INFO  people.Player - A 张龙传球给了 祝奔豪
+17:41:40.715 [pool-2-thread-1] INFO  people.Player - A 张致远传球给了 张龙
+17:41:40.745 [pool-2-thread-3] INFO  people.Player - A 祝奔豪一脚爆射
+17:41:41.246 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 龚政
+17:41:41.747 [pool-2-thread-7] INFO  people.Player - B 龚政传球给了 徐浩然
+17:41:42.226 [pool-2-thread-8] INFO  people.Player - B 徐浩然传球给了 刘欣
+17:41:42.250 [pool-2-thread-6] INFO  people.Player - B 刘欣传球给了 别克
+17:41:42.755 [pool-2-thread-9] INFO  people.Player - B 别克传球给了 龚政
+17:41:43.231 [pool-2-thread-2] INFO  people.Player - A 张龙断掉了龚政的球
+17:41:43.736 [pool-2-thread-2] INFO  people.Player - A 张龙一脚爆射
+17:41:43.753 [pool-2-thread-5] INFO  people.Player - A 高政然断掉了刘欣的球
+17:41:44.239 [pool-2-thread-10] INFO  people.Player - B 张朔断掉了高政然的球
+17:41:44.742 [pool-2-thread-10] INFO  people.Player - B 张朔一脚爆射
+17:41:45.247 [pool-2-thread-1] INFO  people.Player - A 张致远传球给了 张龙
+17:41:45.749 [pool-2-thread-2] INFO  people.Player - A 张龙传球给了 祝奔豪
+17:41:45.749 [pool-2-thread-10] INFO  people.Player - B 张朔断掉了祝奔豪的球
+17:41:46.253 [pool-2-thread-2] INFO  people.Player - A 张龙断掉了张朔的球
+17:41:46.280 [pool-2-thread-9] INFO  people.Player - B 别克断掉了张龙的球
+A 张龙传球给了 刘子旋
+A 刘子旋传球给了 张致远
+A 张致远传球给了 张龙
+A 张致远传球给了 张龙
+A 张龙传球给了 刘子旋
+B 张朔断掉了刘子旋的球
+B 张朔传球给了 刘欣
+B 张朔传球给了 别克
+B 别克传球给了 张朔
+B 刘欣传球给了 别克
+A 刘子旋断掉了别克的球
+A 刘子旋一脚爆射
+B 刘欣传球给了 龚政
+A 张致远断掉了龚政的球
+A 张致远传球给了 刘子旋
+A 刘子旋一脚爆射
+B 刘欣传球给了 徐浩然
+B 徐浩然一脚爆射
+A 张致远一脚爆射
+A 祝奔豪断掉了刘欣的球
+A 祝奔豪传球给了 刘子旋
+A 刘子旋传球给了 张龙
+A 张龙传球给了 刘子旋
+A 刘子旋一脚爆射
+B 刘欣一脚爆射
+B 龚政断掉了张致远的球
+B 龚政传球给了 别克
+B 别克传球给了 龚政
+A 祝奔豪断掉了龚政的球
+B 别克断掉了祝奔豪的球
+B 别克传球给了 刘欣
+B 刘欣一脚爆射
+A 张致远传球给了 张龙
+A 张龙传球给了 祝奔豪
+B 徐浩然断掉了祝奔豪的球
+B 徐浩然传球给了 龚政
+B 龚政传球给了 别克
+B 别克传球给了 刘欣
+B 刘欣传球给了 别克
+B 别克一脚爆射
+A 张致远传球给了 张龙
+A 张龙传球给了 张致远
+A 张致远传球给了 祝奔豪
+A 祝奔豪一脚爆射
+B 龚政断掉了祝奔豪的球
+B 刘欣传球给了 龚政
+B 龚政传球给了 徐浩然
+A 张致远断掉了徐浩然的球
+A 张致远传球给了 祝奔豪
+A 祝奔豪一脚爆射
+B 刘欣一脚爆射
+B 徐浩然断掉了张致远的球
+A 张致远断掉了徐浩然的球
+A 张致远传球给了 祝奔豪
+A 祝奔豪传球给了 张龙
+A 张龙传球给了 张致远
+B 刘欣断掉了张致远的球
+B 刘欣传球给了 龚政
+B 龚政传球给了 别克
+B 别克传球给了 徐浩然
+B 徐浩然一脚爆射
+A 张致远一脚爆射
+B 刘欣一脚爆射
+A 张致远传球给了 祝奔豪
+A 张龙传球给了 刘子旋
+A 祝奔豪传球给了 张龙
+A 刘子旋传球给了 张致远
+A 张致远传球给了 张龙
+A 张龙传球给了 祝奔豪
+A 祝奔豪一脚爆射
+B 刘欣传球给了 徐浩然
+B 徐浩然一脚爆射
+A 张致远一脚爆射
+B 徐浩然断掉了高政然的球
+A 高政然断掉了刘欣的球
+B 徐浩然传球给了 龚政
+A 张龙断掉了龚政的球
+A 张龙一脚爆射
+B 刘欣传球给了 别克
+B 别克传球给了 刘欣
+B 刘欣传球给了 徐浩然
+B 徐浩然传球给了 别克
+B 别克一脚爆射
+A 张致远传球给了 刘子旋
+A 张龙传球给了 张致远
+A 刘子旋传球给了 张龙
+A 张致远传球给了 张龙
+B 龚政断掉了张龙的球
+A 高政然断掉了龚政的球
+A 高政然传球给了 张致远
+A 张致远传球给了 刘子旋
+B 张朔断掉了刘子旋的球
+B 张朔传球给了 别克
+B 别克传球给了 徐浩然
+B 徐浩然一脚爆射
+B 张朔断掉了张致远的球
+B 张朔传球给了 徐浩然
+B 徐浩然传球给了 别克
+B 张朔传球给了 龚政
+B 别克传球给了 张朔
+B 龚政传球给了 刘欣
+B 刘欣一脚爆射
+A 张致远传球给了 张龙
+B 刘欣断掉了张龙的球
+B 刘欣传球给了 别克
+B 别克传球给了 徐浩然
+B 徐浩然一脚爆射
+A 张致远传球给了 刘子旋
+A 刘子旋传球给了 高政然
+A 高政然传球给了 刘子旋
+A 刘子旋传球给了 张龙
+A 高政然断掉了徐浩然的球
+B 徐浩然断掉了张龙的球
+A 高政然传球给了 祝奔豪
+A 刘子旋传球给了 张龙
+A 张龙传球给了 刘子旋
+A 祝奔豪传球给了 刘子旋
+B 龚政断掉了刘子旋的球
+A 高政然断掉了龚政的球
+A 高政然传球给了 张龙
+A 张龙一脚爆射
+B 刘欣传球给了 龚政
+A 张龙断掉了别克的球
+B 龚政传球给了 别克
+A 张龙一脚爆射
+A 高政然断掉了刘欣的球
+A 高政然传球给了 刘子旋
+A 祝奔豪传球给了 张致远
+A 刘子旋传球给了 祝奔豪
+A 张致远传球给了 张龙
+B 刘欣断掉了张龙的球
+A 祝奔豪断掉了刘欣的球
+A 祝奔豪一脚爆射
+B 刘欣一脚爆射
+A 张致远传球给了 刘子旋
+A 刘子旋传球给了 祝奔豪
+B 徐浩然断掉了祝奔豪的球
+B 徐浩然一脚爆射
+A 张致远传球给了 张龙
+A 祝奔豪传球给了 张致远
+A 张龙传球给了 祝奔豪
+A 张致远传球给了 张龙
+A 张龙传球给了 祝奔豪
+A 祝奔豪传球给了 刘子旋
+A 刘子旋传球给了 高政然
+A 高政然一脚爆射
+B 刘欣传球给了 别克
+A 张龙断掉了别克的球
+A 张龙一脚爆射
+B 刘欣传球给了 龚政
+A 高政然断掉了龚政的球
+A 高政然传球给了 刘子旋
+B 张朔断掉了刘子旋的球
+B 张朔一脚爆射
+A 张致远传球给了 刘子旋
+A 刘子旋传球给了 祝奔豪
+A 祝奔豪一脚爆射
+A 张致远断掉了刘欣的球
+A 张致远传球给了 刘子旋
+A 刘子旋传球给了 祝奔豪
+A 祝奔豪传球给了 张龙
+A 张致远传球给了 祝奔豪
+A 祝奔豪传球给了 刘子旋
+A 刘子旋传球给了 张致远
+A 张致远传球给了 张龙
+A 张龙传球给了 祝奔豪
+B 别克断掉了祝奔豪的球
+B 徐浩然断掉了祝奔豪的球
+A 张龙断掉了徐浩然的球
+B 别克传球给了 刘欣
+B 龚政断掉了张龙的球
+A 张龙断掉了龚政的球
+B 刘欣传球给了 龚政
+B 龚政传球给了 徐浩然
+A 张龙传球给了 祝奔豪
+B 刘欣传球给了 徐浩然
+B 徐浩然传球给了 刘欣
+A 祝奔豪传球给了 刘子旋
+A 刘子旋传球给了 高政然
+B 徐浩然传球给了 别克
+B 别克传球给了 刘欣
+A 高政然传球给了 张龙
+B 刘欣一脚爆射
+A 张龙一脚爆射
+A 祝奔豪传球给了 张致远
+B 刘欣传球给了 龚政
+A 张致远传球给了 刘子旋
+A 刘子旋传球给了 祝奔豪
+B 龚政一脚爆射
+B 别克断掉了张致远的球
+A 张致远传球给了 张龙
+A 张龙一脚爆射
+B 刘欣一脚爆射
+A 祝奔豪断掉了刘欣的球
+A 张致远传球给了 刘子旋
+B 别克传球给了 徐浩然
+A 刘子旋传球给了 张致远
+B 徐浩然一脚爆射
+B 刘欣断掉了祝奔豪的球
+A 张致远传球给了 张龙
+A 张龙传球给了 张致远
+B 刘欣传球给了 龚政
+A 张致远传球给了 张龙
+A 张龙传球给了 祝奔豪
+B 龚政传球给了 徐浩然
+B 徐浩然传球给了 别克
+A 祝奔豪传球给了 张龙
+B 别克传球给了 刘欣
+A 张龙传球给了 张致远
+B 刘欣传球给了 徐浩然
+A 张致远一脚爆射
+A 张龙断掉了徐浩然的球
+A 高政然断掉了张朔的球
+B 刘欣一脚爆射
+B 张朔断掉了张龙的球
+A 张致远传球给了 张龙
+A 张龙传球给了 张致远
+A 高政然传球给了 张致远
+A 张致远传球给了 张龙
+A 张龙传球给了 刘子旋
+A 刘子旋传球给了 张龙
+A 张龙传球给了 祝奔豪
+A 祝奔豪传球给了 张致远
+A 张致远传球给了 张龙
+A 张龙传球给了 祝奔豪
+A 祝奔豪传球给了 刘子旋
+B 刘欣断掉了刘子旋的球
+B 刘欣传球给了 别克
+B 别克传球给了 张朔
+B 张朔传球给了 刘欣
+B 刘欣传球给了 别克
+B 别克传球给了 徐浩然
+A 祝奔豪断掉了徐浩然的球
+A 祝奔豪传球给了 张致远
+A 张致远传球给了 祝奔豪
+A 祝奔豪传球给了 张龙
+A 张龙传球给了 祝奔豪
+A 祝奔豪一脚爆射
+B 刘欣传球给了 徐浩然
+B 徐浩然传球给了 龚政
+A 刘子旋断掉了龚政的球
+B 刘欣断掉了刘子旋的球
+B 刘欣一脚爆射
+A 张致远传球给了 张龙
+A 张龙传球给了 刘子旋
+A 刘子旋传球给了 祝奔豪
+A 祝奔豪传球给了 张龙
+A 张龙传球给了 刘子旋
+B 龚政断掉了刘子旋的球
+A 高政然断掉了龚政的球
+A 刘子旋传球给了 祝奔豪
+A 高政然传球给了 刘子旋
+A 祝奔豪传球给了 张致远
+A 张致远传球给了 张龙
+A 张龙传球给了 张致远
+A 张致远传球给了 张龙
+A 张龙传球给了 祝奔豪
+A 祝奔豪传球给了 刘子旋
+A 刘子旋传球给了 张龙
+A 张龙传球给了 祝奔豪
+A 祝奔豪传球给了 刘子旋
+A 刘子旋传球给了 张龙
+A 张龙传球给了 张致远
+B 徐浩然断掉了张致远的球
+B 徐浩然一脚爆射
+A 张致远传球给了 刘子旋
+A 刘子旋传球给了 祝奔豪
+A 祝奔豪传球给了 刘子旋
+A 刘子旋传球给了 张龙
+B 徐浩然断掉了祝奔豪的球
+A 张龙传球给了 祝奔豪
+A 张龙断掉了龚政的球
+B 徐浩然传球给了 龚政
+B 刘欣断掉了张龙的球
+B 刘欣传球给了 徐浩然
+B 徐浩然传球给了 刘欣
+B 刘欣传球给了 龚政
+B 龚政传球给了 刘欣
+B 刘欣一脚爆射
+A 张致远传球给了 张龙
+B 张朔断掉了张龙的球
+B 张朔传球给了 龚政
+B 龚政传球给了 别克
+B 别克一脚爆射
+A 张致远传球给了 祝奔豪
+A 祝奔豪传球给了 刘子旋
+B 别克断掉了刘子旋的球
+B 别克传球给了 龚政
+B 龚政传球给了 刘欣
+B 刘欣传球给了 别克
+B 别克传球给了 徐浩然
+B 徐浩然传球给了 别克
+B 别克传球给了 徐浩然
+A 刘子旋断掉了徐浩然的球
+A 刘子旋传球给了 张龙
+A 张龙传球给了 祝奔豪
+A 祝奔豪传球给了 刘子旋
+A 刘子旋传球给了 祝奔豪
+A 祝奔豪一脚爆射
+B 刘欣传球给了 龚政
+B 龚政传球给了 别克
+A 张致远断掉了别克的球
+A 张致远一脚爆射
+B 刘欣传球给了 龚政
+A 高政然断掉了龚政的球
+A 高政然一脚爆射
+A 张致远断掉了刘欣的球
+A 张致远传球给了 张龙
+B 刘欣断掉了张龙的球
+B 刘欣一脚爆射
+A 张致远传球给了 张龙
+A 张龙传球给了 刘子旋
+A 刘子旋一脚爆射
+B 刘欣一脚爆射
+B 别克断掉了张致远的球
+A 高政然断掉了别克的球
+B 别克断掉了高政然的球
+A 刘子旋断掉了别克的球
+A 刘子旋传球给了 高政然
+A 高政然传球给了 刘子旋
+A 刘子旋传球给了 张龙
+A 张龙传球给了 刘子旋
+A 刘子旋传球给了 张龙
+B 刘欣断掉了张龙的球
+B 刘欣传球给了 别克
+B 别克传球给了 龚政
+B 徐浩然一脚爆射
+B 龚政传球给了 徐浩然
+A 张致远一脚爆射
+B 刘欣传球给了 龚政
+B 龚政传球给了 刘欣
+B 刘欣一脚爆射
+A 张致远传球给了 祝奔豪
+B 张朔断掉了祝奔豪的球
+B 张朔传球给了 刘欣
+B 刘欣传球给了 龚政
+B 龚政传球给了 徐浩然
+B 徐浩然传球给了 龚政
+B 龚政传球给了 刘欣
+A 祝奔豪断掉了刘欣的球
+A 祝奔豪传球给了 张致远
+A 张致远传球给了 张龙
+B 别克断掉了张龙的球
+A 刘子旋断掉了别克的球
+A 刘子旋传球给了 祝奔豪
+A 祝奔豪一脚爆射
+B 刘欣传球给了 别克
+B 别克传球给了 徐浩然
+B 徐浩然传球给了 别克
+A 刘子旋断掉了别克的球
+B 龚政断掉了刘子旋的球
+A 张龙断掉了龚政的球
+B 龚政断掉了张龙的球
+B 龚政传球给了 徐浩然
+B 徐浩然一脚爆射
+A 张致远传球给了 张龙
+A 张龙传球给了 祝奔豪
+A 祝奔豪传球给了 刘子旋
+B 张朔断掉了刘子旋的球
+A 祝奔豪断掉了张朔的球
+A 祝奔豪传球给了 刘子旋
+A 刘子旋传球给了 高政然
+A 高政然传球给了 张龙
+A 张龙一脚爆射
+B 张朔断掉了张龙的球
+B 刘欣传球给了 徐浩然
+A 高政然断掉了徐浩然的球
+B 张朔一脚爆射
+A 张致远传球给了 刘子旋
+A 高政然一脚爆射
+A 刘子旋传球给了 张龙
+B 刘欣传球给了 龚政
+A 刘子旋传球给了 张致远
+A 张龙传球给了 刘子旋
+A 张致远传球给了 张龙
+B 刘欣断掉了张致远的球
+A 祝奔豪断掉了刘欣的球
+A 祝奔豪传球给了 张致远
+B 刘欣断掉了张致远的球
+B 刘欣传球给了 徐浩然
+B 徐浩然传球给了 刘欣
+B 刘欣一脚爆射
+A 张致远传球给了 张龙
+B 刘欣断掉了祝奔豪的球
+A 张龙传球给了 祝奔豪
+B 刘欣传球给了 别克
+A 张致远断掉了别克的球
+A 刘子旋断掉了龚政的球
+B 别克传球给了 龚政
+B 张朔断掉了张致远的球
+A 高政然断掉了张朔的球
+A 刘子旋一脚爆射
+B 刘欣传球给了 别克
+A 高政然传球给了 刘子旋
+B 别克一脚爆射
+A 刘子旋传球给了 祝奔豪
+B 徐浩然断掉了祝奔豪的球
+B 龚政断掉了张致远的球
+A 高政然断掉了徐浩然的球
+A 张龙断掉了龚政的球
+A 高政然传球给了 张致远
+A 张致远传球给了 张龙
+A 张龙传球给了 祝奔豪
+A 祝奔豪传球给了 张龙
+A 张龙一脚爆射
+B 刘欣传球给了 徐浩然
+B 徐浩然传球给了 别克
+B 别克一脚爆射
+A 张致远传球给了 张龙
+A 张龙传球给了 张致远
+B 徐浩然断掉了张致远的球
+A 高政然断掉了徐浩然的球
+A 高政然传球给了 祝奔豪
+A 祝奔豪传球给了 刘子旋
+A 刘子旋传球给了 张龙
+B 张朔断掉了张龙的球
+B 张朔传球给了 刘欣
+B 刘欣传球给了 别克
+B 别克传球给了 徐浩然
+B 徐浩然一脚爆射
+A 张致远一脚爆射
+B 刘欣传球给了 别克
+B 别克传球给了 徐浩然
+B 徐浩然传球给了 龚政
+B 别克一脚爆射
+B 龚政传球给了 别克
+B 张朔断掉了张致远的球
+B 张朔一脚爆射
+A 张致远一脚爆射
+B 刘欣传球给了 龚政
+A 刘子旋断掉了龚政的球
+B 龚政一脚爆射
+A 张致远传球给了 张龙
+A 刘子旋传球给了 张致远
+A 张龙一脚爆射
+A 张致远传球给了 张龙
+B 龚政断掉了张龙的球
+B 刘欣传球给了 徐浩然
+B 徐浩然传球给了 刘欣
+B 龚政传球给了 徐浩然
+B 刘欣传球给了 龚政
+B 徐浩然传球给了 别克
+B 龚政传球给了 徐浩然
+B 别克一脚爆射
+B 徐浩然传球给了 别克
+A 刘子旋断掉了别克的球
+B 龚政断掉了刘子旋的球
+A 张致远传球给了 张龙
+A 张龙传球给了 张致远
+B 龚政传球给了 刘欣
+A 张致远传球给了 刘子旋
+B 刘欣传球给了 龚政
+A 张龙断掉了龚政的球
+A 刘子旋传球给了 高政然
+B 刘欣断掉了张龙的球
+A 张致远断掉了刘欣的球
+A 张龙一脚爆射
+A 高政然传球给了 张龙
+B 刘欣传球给了 龚政
+A 刘子旋断掉了龚政的球
+A 张致远一脚爆射
+B 刘欣传球给了 别克
+B 别克传球给了 徐浩然
+A 刘子旋传球给了 高政然
+A 张龙一脚爆射
+A 高政然传球给了 张龙
+B 徐浩然一脚爆射
+A 张致远传球给了 张龙
+B 刘欣传球给了 龚政
+A 张龙一脚爆射
+B 龚政传球给了 徐浩然
+B 刘欣传球给了 别克
+A 祝奔豪断掉了别克的球
+B 徐浩然传球给了 别克
+B 别克传球给了 徐浩然
+B 徐浩然传球给了 别克
+A 祝奔豪传球给了 张致远
+B 张朔断掉了张致远的球
+B 别克传球给了 徐浩然
+B 徐浩然传球给了 龚政
+B 龚政传球给了 刘欣
+B 张朔一脚爆射
+A 张致远传球给了 张龙
+B 刘欣传球给了 龚政
+B 龚政传球给了 徐浩然
+A 高政然断掉了徐浩然的球
+A 张龙传球给了 祝奔豪
+A 祝奔豪一脚爆射
+A 高政然一脚爆射
+B 刘欣传球给了 龚政
+B 龚政传球给了 徐浩然
+A 张龙断掉了徐浩然的球
+A 张龙传球给了 刘子旋
+A 刘子旋一脚爆射
+B 刘欣传球给了 别克
+B 别克一脚爆射
+A 张致远传球给了 张龙
+B 龚政断掉了张龙的球
+B 龚政传球给了 徐浩然
+A 张龙断掉了徐浩然的球
+B 徐浩然断掉了张龙的球
+A 张龙断掉了徐浩然的球
+B 徐浩然断掉了张龙的球
+B 徐浩然传球给了 别克
+B 别克传球给了 徐浩然
+A 高政然断掉了徐浩然的球
+B 别克断掉了高政然的球
+B 别克一脚爆射
+A 张致远传球给了 刘子旋
+A 高政然传球给了 祝奔豪
+A 刘子旋传球给了 高政然
+A 祝奔豪传球给了 张致远
+A 张致远传球给了 刘子旋
+A 刘子旋传球给了 高政然
+A 高政然传球给了 刘子旋
+A 刘子旋传球给了 高政然
+A 高政然传球给了 祝奔豪
+A 祝奔豪传球给了 刘子旋
+A 刘子旋传球给了 祝奔豪
+A 祝奔豪一脚爆射
+B 刘欣传球给了 龚政
+B 龚政传球给了 别克
+B 别克传球给了 张朔
+B 张朔传球给了 龚政
+B 龚政传球给了 别克
+B 别克传球给了 刘欣
+B 刘欣一脚爆射
+A 张致远传球给了 张龙
+A 张龙传球给了 刘子旋
+A 刘子旋传球给了 张龙
+A 张龙传球给了 祝奔豪
+A 祝奔豪一脚爆射
+B 刘欣传球给了 徐浩然
+B 别克传球给了 徐浩然
+B 徐浩然传球给了 别克
+B 徐浩然传球给了 别克
+B 别克传球给了 徐浩然
+A 高政然断掉了徐浩然的球
+A 高政然传球给了 祝奔豪
+A 祝奔豪传球给了 张致远
+A 张致远传球给了 张龙
+A 张龙传球给了 祝奔豪
+A 祝奔豪传球给了 张致远
+A 张致远传球给了 刘子旋
+A 刘子旋传球给了 张致远
+A 张致远传球给了 刘子旋
+B 徐浩然断掉了刘子旋的球
+B 徐浩然传球给了 刘欣
+B 刘欣传球给了 龚政
+B 龚政传球给了 徐浩然
+B 徐浩然一脚爆射
+A 张致远传球给了 刘子旋
+A 刘子旋传球给了 张龙
+A 张致远传球给了 张龙
+A 张龙传球给了 张致远
+A 张龙一脚爆射
+B 刘欣一脚爆射
+A 张致远断掉了刘欣的球
+B 别克断掉了张致远的球
+A 张龙断掉了别克的球
+A 张龙传球给了 祝奔豪
+A 祝奔豪传球给了 张致远
+A 张致远传球给了 祝奔豪
+A 祝奔豪传球给了 刘子旋
+A 刘子旋一脚爆射
+B 刘欣传球给了 徐浩然
+B 别克传球给了 龚政
+B 徐浩然传球给了 别克
+B 龚政传球给了 徐浩然
+B 徐浩然一脚爆射
+A 张致远传球给了 祝奔豪
+A 祝奔豪一脚爆射
+A 张龙断掉了刘欣的球
+B 刘欣断掉了张龙的球
+B 刘欣传球给了 龚政
+B 龚政传球给了 徐浩然
+B 徐浩然传球给了 别克
+B 别克传球给了 徐浩然
+B 徐浩然一脚爆射
+A 张致远传球给了 刘子旋
+A 刘子旋传球给了 张龙
+A 张龙传球给了 刘子旋
+A 刘子旋一脚爆射
+B 刘欣传球给了 徐浩然
+B 徐浩然传球给了 别克
+A 张龙断掉了别克的球

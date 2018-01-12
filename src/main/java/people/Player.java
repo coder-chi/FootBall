@@ -7,6 +7,8 @@ import java.util.Random;
 
 public class Player implements Runnable{
 
+    Logger LOGGER = LoggerFactory.getLogger(Player.class);
+
     int huihe = 100;
     Random random = new Random();
 
@@ -26,13 +28,13 @@ public class Player implements Runnable{
         if(containBoll){
             containBoll = false;
             teammate.containBoll = true;
-            System.out.println(team.getName() + " " + name + " 传球给了 " + teammate.name);
+            LOGGER.info(team.getName() + " " + name + "传球给了 " + teammate.name);
         }
     }
 
     private void shoot(){
         if(containBoll){
-            System.out.println(team.getName() + " " + name + "一脚爆射");
+            LOGGER.info(team.getName() + " " + name + "一脚爆射");
             containBoll = false;
             giveBallToOppnent();
         }
@@ -42,7 +44,7 @@ public class Player implements Runnable{
         if(!containBoll && opponent.containBoll){
             containBoll = true;
             opponent.containBoll = false;
-            System.out.println(team.getName() + " " + name + "断掉了" + opponent.name + "的球");
+            LOGGER.info(team.getName() + " " + name + "断掉了" + opponent.name + "的球");
         }
     }
 
