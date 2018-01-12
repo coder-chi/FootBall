@@ -8,9 +8,11 @@ import java.util.Random;
 public class Player implements Runnable{
 
     Logger LOGGER = LoggerFactory.getLogger(Player.class);
+    int huihe = 50;
 
-    int huihe = 100;
-    Random random = new Random();
+    Random passRandom = new Random();
+    Random scoreRandom = new Random();
+    Random chooseRandom = new Random();
 
     private String name;
     private Team team;
@@ -36,6 +38,13 @@ public class Player implements Runnable{
         if(containBoll){
             LOGGER.info(team.getName() + " " + name + "一脚爆射");
             containBoll = false;
+            if(scoreRandom.nextInt(10)>5){
+                LOGGER.info("球进啦！");
+                LOGGER.info(this.name + "打进了一球");
+                team.goal();
+            } else {
+                LOGGER.info("这打的是个毛啊。");
+            }
             giveBallToOppnent();
         }
     }
@@ -55,7 +64,7 @@ public class Player implements Runnable{
     @Override
     public void run() {
         while (--huihe > 0){
-            int r = random.nextInt(5);
+            int r = chooseRandom.nextInt(5);
             //有球
             if(containBoll){
                 if(r>3){
@@ -72,7 +81,7 @@ public class Player implements Runnable{
             //无球
             else {
                 if (r > 2){
-                    steal(hostility.getPlayerList().get(random.nextInt(5)));
+                    steal(hostility.getPlayerList().get(chooseRandom.nextInt(5)));
                 }
             }
             try {
